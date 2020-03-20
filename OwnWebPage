@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dimas Pradipta Putra</title>
+        <style>
+            body{
+                font: 16px/28px arial, sans-serif;
+                background-color:#eaeaea;
+                color: #333333;
+
+            }
+            
+            .container{
+                width: 800px;
+                margin: auto;   
+                background-color: darkseagreen;             
+            }
+
+            .header{
+                padding-top: 10px;
+                padding-bottom: 10px;
+            }
+
+            .header .judul{
+                font-size: 40px;
+                font-weight: bold;
+                margin-left: 40px;
+            }
+
+            .header ul li{
+                display: inline-block; 
+                margin-top: 2px ;
+                margin-right: 6px;
+
+            }
+
+            .header a{
+                text-decoration: none; 
+                color: yellow;
+                padding-left: 5px;
+                padding-right: 5px;
+            }
+
+            .header a:hover{
+                background-color:darkseagreen;
+                color:black;
+                
+            }
+
+            .hero{
+                height: 250px;
+                background-image:url(lala/jumbo.jpg); 
+                background-size: cover;
+                background-position: 0px 0px ;     
+                border-top: 3px solid greenyellow;
+                border-bottom: 3px solid greenyellow;
+
+
+            }
+
+            .content{
+                padding-top: 20px;
+                padding-left: 20px;
+                padding-bottom: 5px;
+                margin-top: -15px;
+                margin-left: 20px;
+                
+            }
+
+            .content h2{
+                font-size: 28px;
+                font-weight: bold;
+   
+            }            
+            
+
+            .content p{
+                margin-bottom: 15px;
+                font-size: 17px;
+                text-align: justify;
+                margin-right: 30px;
+            }
+
+            .content .penulis {
+                font-size: 14px;
+                margin-top: -10px;
+                
+            }
+
+            .content .penulis a{
+                text-decoration: none;
+                color: yellow;
+            }
+
+            .footer {
+                background-color: grey;
+                padding: 2px;
+            }
+
+            .footer .copyright {
+                color: yellow;
+                text-align: center;
+                font-size: 14px;
+            }
+            
+
+
+
+        </style>
+
+    </head>
+<body>
+
+    <div class="container">
+        <div class="header">
+
+            <h1 class="judul">Dimas Pradipta</h1>
+
+                <ul>
+                    <li><a href="#">Beranda</a></li>
+                    <li><a href="#">Profil</a></li>
+                    <li><a href="#">Tugas</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Kontak</a></li>
+                </ul>            
+               
+        </div>
+
+        <div class="hero"></div>
+
+        <div class="content">
+            <h2>Judul artikel</h2>
+                <p class="penulis">Ditulis oleh <a href="#">Dimas Pradipta</a>. 24 Juli 2019</p>
+
+                    <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam tempore nulla neque necessitatibus? 
+                        Voluptatem quisquam porro corrupti dolor ut amet consequuntur vero est eius exercitationem asperiores assumenda autem, 
+                        quos quo.
+                    </p>
+
+                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum libero maxime quis nihil dolore in delectus quibusdam dicta odio? 
+                            Impedit commodi fuga ab illum necessitatibus quod consectetur, soluta molestiae quibusdam.
+                        </p>
+                            
+                            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente dolorem quasi expedita dignissimos voluptate officia 
+                                distinctio tenetur, explicabo eveniet voluptatum numquam delectus ut eius corporis nisi! Dolores harum assumenda, 
+                                distinctio, magni eius velit quos voluptatibus sunt non, ipsam voluptatem perferendis maiores! Corporis voluptates soluta, 
+                                iure esse quaerat reiciendis libero consequatur dolor, ratione voluptas sed sunt distinctio. Aliquid quibusdam sunt sapiente 
+                                culpa nemo exercitationem molestias, officia, libero recusandae perspiciatis reprehenderit natus doloremque ducimus earum odio 
+                                esse provident fuga consequuntur! Magnam ut, assumenda adipisci esse expedita, blanditiis ratione at,
+                                in neque est ipsa ullam. Voluptatem dignissimos perferendis quaerat omnis iste molestias quibusdam.
+                            </p>
+
+                                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, asperiores debitis 
+                                    sint eum ratione quas placeat facilis suscipit quia? Aliquam quibusdam 
+                                    dignissimos fugiat dolore beatae in eligendi omnis. Fuga, quisquam?
+                                </p>
+
+                                    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores incidunt facere corporis, 
+                                        expedita deleniti quam aperiam aliquid ratione in itaque. 
+                                        Eos suscipit optio enim nostrum inventore vel quasi deleniti! Ex?
+                                    </p>
+        </div>
+
+        <div class="footer">
+            <p class="copyright">Copyright 2020.Dimas Pradipta Putra</p>
+        </div>
+    </div>
+
+
+</body>
+</html>

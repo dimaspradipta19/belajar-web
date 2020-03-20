@@ -1,0 +1,110 @@
+
+<!DOCTYPE html>
+
+<html>  
+    
+    <head>
+        <title>Biodata peserta</title>
+
+        <style>
+
+        
+        </style>
+    </head>
+
+    
+      <body>
+        
+        <h2> Form input biodata </h2>
+
+          <table border="20px" >
+            <tr>
+              <td>
+                  <div class="tabel">
+                  <form>    
+                      <tr>              
+                      <td><label for="nama">Nama Lengkap</label></td>
+                      <td>:</td>
+                      <td><input type="text" size="20" id="nama"></td>
+                      </tr>
+                    </div>
+                      <tr>
+
+                      <td><label for="ttl">Tempat,Tanggal Lahir</label></td>
+                      <td>:</td>
+                        <td><input type="text" size="20" id="Kota"> .
+                        <input type="text" size="2" id="tanggal"/>/
+                        <input type="text" size="2" id="bulan"/>/
+                        <input type="text" size="4" id="tahun"> </td>
+
+                      </tr>
+                        
+                      <tr>
+                        <td><label for="alamat">Alamat</label></td>
+                        <td>:</td>
+                        <td><textarea name="alamat"></textarea></td>
+                      </tr>
+                      
+                      
+                      <tr>
+                        <td><label for="telepon">No.Telp/HP</label>
+                        <td>:</td>
+                        <td><input type="telepon"></input></td>                                         
+                      </tr> 
+
+                      <tr>
+                      <td><label for="jenisKel">Jenis Kelamin</label></td>
+                      <td>:</td>
+                      
+                      <td><label for="Pria">Pria</label>
+                        <input type="radio" id="Pria" name="jenisKel" value="Pria">
+
+                      <label for="Wanita">Wanita </label>
+                        <input type="radio" id="Wanita" name="jenisKel" value="Wanita"></td>
+                      </tr>
+
+                      
+                      <tr>
+                      <td><label for="Agama">Agama</label>
+                        <td>:</td>
+                      <td><input type="agama"></input></td>
+                      </tr>
+
+                      <tr>
+                        <td><label for="Program">Pilih Program</label></td>
+                        <td>:</td>
+                        <td><select id="Program">
+                              <option value="">Pilihan Program</option>
+                              <option value="matif">Matif</option>
+                              <option value="komputer grafis">KompGrafis</option>
+                              <option value="desain">Desain</option>                  
+                          </select></td>
+                      </tr>
+
+                      <tr> 
+                      <td><label for="Hobby">Hobby</label></td>
+                      <td>:</td>
+                      <td><input type="checkbox">Baca Buku</input>
+                        <input type="checkbox">OlahRaga</input>
+                        <input type="checkbox">Main Game</input>
+                        <input type="checkbox">Hiking</input>
+                        <input type="checkbox">Tidur</input>
+                      </td>
+                      </tr>
+
+
+                      <tr>
+                      <td><button type="submit">Submit</button></td>
+                      <td></td>
+                      <td><button type="clear">Clear</button></td>
+                      </tr>
+                    
+                    
+                    
+                  </form>
+            </body>
+      </td>
+    </tr>
+  </table>
+    
+</html>

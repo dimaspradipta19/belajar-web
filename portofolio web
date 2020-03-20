@@ -1,0 +1,130 @@
+
+<!doctype html>
+
+<html lang="en">
+
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Dipta's Web</title>
+  </head>
+
+  <body>
+            <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+
+                <div class="container">    
+                <a class="navbar-brand" href="#">Dimas Pradipta</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link" href="#">Beranda </a>
+                        <a class="nav-item nav-link" href="#">Tugas Kuliah</a>
+                        <a class="nav-item nav-link" href="#">Kontak</a>
+                        <a class="nav-item nav-link" href="https://dimaspradipta19.blogspot.com/">About</a>
+                    </div>
+                    </div>
+                </div>
+            </nav>
+
+
+            <div class="jumbotron jumbotron-fluid" >
+                    <div class="container text-center">
+                    <img src="D:\Web\portofolio\images.png" width="200" class="rounded-circle">
+                      <h1 class="display-4">Dimas Pradipta Putra</h1>
+                      <p class="lead"> Selamat datang di Web pribadi Dimas Pradipta Putra </p>
+                    </div>
+            </div>
+
+            
+
+
+
+            <div class="container">
+              <div class="row">
+                <div class="col text-center">
+                  <h1>About</h1>
+                </div>
+              </div>
+                
+
+
+              <div class="row text-justify">
+                <div class="col">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil hic, doloribus neque itaque corrupti rem. Omnis qui sequi reiciendis ullam saepe esse facilis consectetur totam. Ab doloremque incidunt earum dolor?</p>
+                </div>
+                <div class="col">
+                  <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta laborum reiciendis, dicta commodi repellat asperiores earum, accusamus voluptates molestias, alias expedita ea labore quidem distinctio architecto vero iure magni quibusdam!</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="container">
+              <div class="row">
+                <div class="col-md text-center">
+                  <h1> Tugas-Tugas </h1>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md">
+                    <div class="card" >
+                        <img src="D:\Web\portofolio\gundar.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                          <h5 class="card-title">Tugas ke 1</h5>
+                          <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium iusto vitae iure iste dolor error exercitationem vero dicta ipsam repudiandae quibusdam architecto, laborum incidunt, corrupti a ipsa quasi voluptas! Ducimus?</p>
+                          <a href="#" class="btn btn-primary">Yuk lihat...</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md">
+                    <div class="card">
+                        <img src="D:\Web\portofolio\gundar.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                          <h5 class="card-title">Tugas ke 2</h5>
+                          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum aut quod voluptates numquam enim non iure saepe eligendi cum voluptatem! Beatae consequuntur dicta sequi, magni quas labore modi distinctio eveniet!</p>
+                          <a href="#" class="btn btn-primary">Yuk lihat...</a>
+                        </div>
+                      </div>
+                </div>
+
+                <div class="col-md">
+                    <div class="card">
+                        <img src="D:\Web\portofolio\gundar.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                          <h5 class="card-title">Tugas ke 3</h5>
+                          <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quidem maiores repellat dolor tenetur aliquid rerum, aspernatur blanditiis doloremque laboriosam ullam? At beatae corrupti optio perferendis quisquam? Error quam consequuntur quae.</p>
+                          <a href="#" class="btn btn-primary">Yuk lihat...</a>
+                        </div>
+                    </div>
+                </div>
+              </div>
+            </div>
+
+            
+
+           
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+
+
+  <style>
+
+    .jumbotron {
+  background-image: url(ts1.png);
+  background-size: 100% 100%;
+  height: 100%;
+  }
+  </style>
+</html>
